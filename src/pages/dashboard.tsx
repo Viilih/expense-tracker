@@ -7,7 +7,7 @@ export const Dashboard = () => {
     <PageContainer>
       <div className="w-full p-5 bg-slate-950 rounded-xl shadow-slate-700 shadow-md flex space-x-80">
         <div className="flex flex-col gap-4">
-          <h2 className="text-2xl text-slate-500">Balance</h2>
+          <h2 className="text-2xl text-slate-500">BalanceT</h2>
           <h2 className="text-3xl text-slate-50 font-bold line leading-5">
             R$15000,00
           </h2>
